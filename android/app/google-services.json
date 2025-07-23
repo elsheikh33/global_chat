@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58497452663",
+    "project_id": "fourth-project-f06d9",
+    "storage_bucket": "fourth-project-f06d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58497452663:android:3adf1dc4c6450fa9ead472",
+        "android_client_info": {
+          "package_name": "com.Elsheikh.fourth_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTV6WP3c2s0ppsR3uhjS_L58RZ1r8dGX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
