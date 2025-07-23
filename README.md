@@ -19,3 +19,21 @@ A real-time Flutter chat application powered by Firebase Authentication and Clou
 - **Firebase Authentication** – For secure login/signup
 - **Cloud Firestore** – For real-time message storage
 
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Flutter SDK installed
+- Firebase project created
+- Firebase Auth and Firestore enabled in Firebase Console
+
+### Installation
+
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/elsheikh33/global_chat.git
+   cd global_chat
+
+   flutter pub get
+   flutter run
